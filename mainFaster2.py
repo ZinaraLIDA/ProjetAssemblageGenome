@@ -1,5 +1,4 @@
 import gzip
-import hashlib
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqIO.QualityIO import FastqGeneralIterator
